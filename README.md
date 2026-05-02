@@ -2,7 +2,7 @@
 
 A full-stack collaborative task management platform where teams can create projects, assign tasks, and track progress in real-time. Built with a modern **Claymorphic UI** design system.
 
-> **Live Demo**: [Deployed on Render](#deployment)
+> 🚀 **Live Demo**: [https://taskme-e3ex.onrender.com](https://taskme-e3ex.onrender.com)
 
 ---
 
